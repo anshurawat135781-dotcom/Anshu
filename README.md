@@ -83,7 +83,7 @@ To contribute as a **Data Analyst** by leveraging my skills in data processing, 
 
 ## 🌐 Socials  
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)  
+![LinkedIn]https://www.linkedin.com/in/anshu-das-256737267/)  
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)  
 ![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)  
 
