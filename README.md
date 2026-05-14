@@ -75,7 +75,7 @@ To contribute as a **Data Analyst** by leveraging my skills in data processing, 
 - Entry-Level Data Science Roles  
 
 📫 Connect with me:  
-- 📧 anshudas@example.com  
+- 📧 anshurawat135781@gmail.com  
 - 💼 https://linkedin.com/in/anshu-das  
 - 🌐 https://anshudas-portfolio.netlify.app/  
 
